@@ -11,7 +11,7 @@
 </div>
 
 ---
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=verticall&theme=chartreuse-dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=chartreuse-dark)
 
 ### :hammer_and_wrench: Languages and Tools
 
