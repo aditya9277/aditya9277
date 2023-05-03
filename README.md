@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=4000&pause=1000&color=7FFF00&width=435&lines=Hello+There%2C+Aditya+this+side+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=3000&pause=1000&color=7FFF00&width=435&lines=Hello+There%2C+Aditya+this+side+!)
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/aditya9277">
