@@ -9,7 +9,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<div id="fire msg">
+  <h1>
+  My Stats
+  <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="30px"/>
+  </h1>
+</div>  
+  
 
 
 
