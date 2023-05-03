@@ -11,7 +11,7 @@
 </div>
 
 ---
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.?type=horizontal&theme=chartreuse-dark&author=Steve Jobs)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark?quote=The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it)
 
 ### :hammer_and_wrench: Languages and Tools
 
