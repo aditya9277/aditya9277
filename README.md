@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=40&duration=3000&pause=1000&color=00F7E4&width=435&lines=Hello+Aditya+this+side+!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=30&duration=3000&pause=1000&color=00F7E4&width=435&lines=Hello+Aditya+this+side+!!)
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya9277&count_private=true&show_icons=true&hide=contribs&theme=chartreuse-dark&bg_color=00000000)
 
