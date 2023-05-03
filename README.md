@@ -1,11 +1,11 @@
-### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=3000&pause=1000&color=00F7E4&width=435&lines=Hello+Aditya+this+side+!!)]
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya9277&count_private=true&show_icons=true&hide=contribs&theme=chartreuse-dark&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya9277&layout=compact&theme=chartreuse-dark&bg_color=00000000)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aditya9277&theme=chartreuse-dark&bg_color=00000000)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=3000&pause=1000&color=00F7E4&width=435&lines=Hello+Aditya+this+side+!!)]
 <!--
 **aditya9277/aditya9277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
