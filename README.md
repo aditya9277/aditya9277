@@ -11,6 +11,7 @@
 </div>
 
 ---
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=verticall&theme=chartreuse-dark)
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -30,7 +31,7 @@
   </h1>
 </div>  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aditya9277&theme=chartreuse-dark)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aditya9277&theme=chartreuse-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya9277&layout=compact&theme=chartreuse-dark&bg_color=00000000)
 
