@@ -12,7 +12,7 @@
 <div id="fire msg">
   <h1>
   My Stats
-  <img src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" width="35px"/>
+  <img src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" width="30px"/>
   </h1>
 </div>  
   
