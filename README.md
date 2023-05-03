@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya9277&layout=compact&theme=chartreuse-dark&bg_color=00000000)
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aditya9277&theme=chartreuse-dark&bg_color=00000000)
+
 <!--
 **aditya9277/aditya9277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
