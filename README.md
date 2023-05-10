@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=3000&pause=1000&color=7FFF00&width=435&lines=Hello+There%2C+Aditya+this+side+!)
 
+
+![](https://visitcount.itsvg.in/api?id=aditya9277&label=Profile%20Views&color=5&icon=5&pretty=false)
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/aditya9277">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
