@@ -16,7 +16,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aditya9277&icon=4&color=8)](https://visitcount.itsvg.in)
