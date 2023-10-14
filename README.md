@@ -14,6 +14,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya9277&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya9277&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Holopin Badges
+[![An image of @aditya9277's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya9277)](https://holopin.io/@aditya9277)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
