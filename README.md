@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=3000&pause=1000&color=7FFF00&width=435&lines=Hello+There%2C+Aditya+this+side+!)
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development and ML Projects.<br>🌱 I’m currently learning Machine Learning and Data Science.<br>💬 Ask me about Frontend WebDev, CPP, Data Structures and Algorthms.<br>⚡ Fun fact - Debugging is like being the detective in a crime movie where you are also the murderer.
+🔭 I’m currently working on Web Development and ML Projects.<br>🌱 I’m currently learning Machine Learning and Data Science.<br>💬 Ask me about Frontend WebDev, CPP, Data Structures and Algorthms.<br>⚡ Fun fact - Debugging is like being the detective in a crime movie where you are also the murderer...
 
 
 ## 🌐 Socials:
