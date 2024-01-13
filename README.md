@@ -14,7 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=aditya9277&theme=tokyonight&rank_icon=github&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya9277&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya9277&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://streak-stats.demolab.com?user=aditya9277&theme=tokyonight&currStreakNum=EB4024&hide_longest_streak=true)
 .
 
 
