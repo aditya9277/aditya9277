@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;Github Analytics: </h3>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;Github Analytics </h3>
 <p align="center">
 <a href="https://github.com/aditya9277">
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=aditya9277&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="aditya9277" />
