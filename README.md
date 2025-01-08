@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Aditya Gupta!!!</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Aditya Gupta!!</h1>
 
 [![An image of @aditya9277's Holopin badges, which is a link to view my full Holopin profile](https://holopin.me/aditya9277)](https://holopin.io/@aditya9277)
 <h3 align="center">Problem Solver || Full Stack Developer || C++ Programmer</h3>
