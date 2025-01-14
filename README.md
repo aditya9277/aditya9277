@@ -11,7 +11,7 @@
   </a>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,mongodb,tailwind,postman,vercel,appwrite,git,powershell" />
+    <img src="https://skillicons.dev/icons?i=github,mongodb,tailwind,postman,vercel,appwrite,git,powershell"/>
   </a>
 </p>
 
