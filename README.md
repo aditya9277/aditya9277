@@ -4,7 +4,7 @@
 <h3 align="center">Problem Solver || Full Stack Developer || C++ Programmer</h3>
 
 
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Languages and Tools</h3>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,html,css,js,bootstrap,react,redux,nextjs,express,typescript,nodejs" />
