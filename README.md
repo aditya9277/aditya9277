@@ -86,3 +86,6 @@ I am a **Computer Science Engineer (VIT, 2026)** driven by a passion for buildin
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=aditya9277&icon=0&color=2" alt="Profile Views"/>
 </p>
+
+
+[![](https://visitcount.itsvg.in/api?id=aditya9277&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
